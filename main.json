@@ -1,6 +1,6 @@
 {
   "announcement": {
-    "message": "uhh hi",
+    "message": "Hi <name>!",
     "duration": 20
   }
 }
